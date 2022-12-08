@@ -9,4 +9,4 @@ greeting:
 include_extra_file:
     type: bool
     help: Should we include an extra file?
-    default: yes
+    default: no
