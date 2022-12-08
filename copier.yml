@@ -1,0 +1,12 @@
+project_name:
+    type: str
+    help: What is your project name?
+    default: hello_world
+greeting:
+    type: str
+    help: What greeting would you like to say?
+    default: Hello
+include_extra_file:
+    type: bool
+    help: Should we include an extra file?
+    default: yes
